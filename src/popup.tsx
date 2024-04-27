@@ -42,7 +42,7 @@ function IndexPopup() {
       <div style={{textAlign:'center'}}>
         <h1> Welcome to </h1>
         <h1> Basique </h1>
-        <div className='conmtainer1'>
+        <div className='conmtainer1' style={{ minHeight: '100px' }}>
           <h1 ref={el}></h1>
         </div>
       </div>
